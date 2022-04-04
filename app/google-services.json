@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125229871483",
+    "project_id": "scan-text-d2273",
+    "storage_bucket": "scan-text-d2273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125229871483:android:40a83ca109e024e4bbcdde",
+        "android_client_info": {
+          "package_name": "com.tofi.scantext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125229871483-1v6ilvpn25j6m455ffg23hejm08iejjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5uZAI1kCUFgtBOHIRYN3grGi35DlAFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125229871483-1v6ilvpn25j6m455ffg23hejm08iejjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
